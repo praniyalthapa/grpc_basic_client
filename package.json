@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@grpc/grpc-js": "^1.10.6"
+    "@grpc/grpc-js": "^1.10.6",
+    "node": "^20.13.0"
   }
 }
